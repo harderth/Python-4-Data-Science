@@ -9,5 +9,5 @@ The secret code now follows as proof of the successful completion of task 2!
 `secretKey = "I read the first X (X>=25) exersises"`
 
 # Exercise 3
-The tasks for task 3 were solved in the Countries.ipynb file.
+The tasks for task 3 were solved in the `Countries.ipynb` file.
 
